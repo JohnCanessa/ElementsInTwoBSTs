@@ -10,7 +10,7 @@ LeetCode provides a couple hints.
 
 I invite you to read my comments in the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/09/all-elements-in-two-binary-search-trees/
 
 Rememeber that one of the best ways to learn is to read and experiemnt.
 
